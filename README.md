@@ -24,6 +24,10 @@ Retail Wave addresses this challenge by providing a seamless and integrated solu
 - *Optimized Inventory Management:* Retailers gain real-time visibility into stock levels across channels, reducing overstocking and stockouts.
 - *Higher Conversion Rates:* Personalized recommendations and smoother transitions between channels lead to higher conversion rates.
 
+<div style="text-align:center;">
+    <img src="./Images/Problem.jpg" alt="" width="800px">
+</div>
+
 ## Target Audience
 
 - Retailers of all sizes looking to provide a modern and seamless shopping experience.
@@ -59,4 +63,4 @@ Retail Wave addresses this challenge by providing a seamless and integrated solu
 ### Products List:
 ![Products List](./Images/Products_list.jpg)
 
----
+---```
